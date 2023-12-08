@@ -207,3 +207,9 @@ We introduced the Studentia Chatbot: An innovative solution designed to be an in
 - [Firebase Functions](https://github.com/firebase/firebase-functions)
 - [OpenAI Python API](https://github.com/openai/openai)
 - **[Building a Custom GPT-3 Q&A Bot Using Embeddings by Peter Foy](https://www.mlq.ai/fine-tuning-gpt-3-question-answer-bot/)**
+
+## __📓 Team 📓__
+> Team 11 Cognify <br/>
+> 🗓️ 2023.03.27 ~ 2023.12
+
+|[김영애](https://github.com/Y1K5)|[Daniela Fajardo](https://github.com/danielabfajardo)|[Nafisa](https://github.com/NafisaOtakhanova)|
