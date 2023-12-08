@@ -51,7 +51,7 @@ The Studentia Chatbot operates through a series of steps, providing accurate and
 
 **1. Database Preparation**
 
-- The Ewha Womans University database is created, tokenized with GPT-2, and embedded using the 'text-curie-search-doc-001' model. (See in Studentia-Chatbot-Test Repository)
+- The Ewha Womans University database is created, tokenized with GPT-2, and embedded using the 'text-curie-search-doc-001' model. (See in [Studentia-Chatbot-Test repository](https://github.com/Studentia/Studentia-Chatbot-Test) )
 - The resulting document embeddings are stored for efficient retrieval.
     
     ![database.png](images/database.png)
