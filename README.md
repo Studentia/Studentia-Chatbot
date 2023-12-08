@@ -4,18 +4,19 @@
 
 Welcome to the final version of Studentia Chatbot GitHub repository! This project is a close-domain Q&A chatbot designed to answer questions about Ewha Womans University. The chatbot is integrated into a Flutter app using Firebase Functions, ensuring secure communication through HTTPS requests.
 
+https://github.com/Studentia/Studentia-Chatbot/assets/86768892/aa06e986-39b2-483d-9287-8cdf5d5c76f8
+
 ## **Table of Contents**
 
 1. Introduction
 2. Tech Stack
 3. System Architecture
 4. Source Code Explanations: How to Build
-5. Prompt Engineering
-6. Cosine Similarity Results
-7. Why We Use This Model
-8. How To Test & Install
-9. Conclusion
-10. References
+5. Cosine Similarity Results
+6. Why We Use This Model
+7. How To Test & Install
+8. Conclusion
+9. References
 
 ## **Introduction**
 
@@ -171,7 +172,9 @@ This file handles the HTTP request to the Firebase Function and utilizes the **`
 
 Specifies the required Python packages for the project, including Firebase Functions, OpenAI, NumPy, Pandas, and Transformers. 
 
-This step-by-step process ensures the Studentia Chatbot delivers accurate and contextually relevant responses to user queries while optimizing performance through caching and intelligent prompt engineering.
+### **`chatbot_page.dart`**
+
+Makes API requests to and from the flutter side to firebase functions. Integrates the chatbot's backend with the app's frontend.
 
 ## **Cosine Similarity Results**
 
