@@ -22,8 +22,6 @@ https://github.com/Studentia/Studentia-Chatbot/assets/86768892/aa06e986-39b2-483
 
 This repository contains the source code for a close-domain Q&A chatbot tailored for Ewha Womans University. The chatbot is integrated into a Flutter app using Firebase Functions for secure communication.
 
-![HTTPS Diagram.png](images/https-flow.png)
-
 ## **Tech Stack**
 
 | Technology | Name | Details |
@@ -41,7 +39,7 @@ This repository contains the source code for a close-domain Q&A chatbot tailored
 
 The chatbot's system architecture involves a Firebase Functions setup, handling HTTPS requests, and communicating with the OpenAI API for generating responses.
 
-![system-architecture.JPG](images/system-architecture.JPG)
+![HTTPS Diagram.png](images/https-flow.png)
 
 ![chatbot-diagram.png](images/chatbot-diagram.png)
 
