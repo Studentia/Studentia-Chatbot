@@ -11,7 +11,7 @@ https://github.com/Studentia/Studentia-Chatbot/assets/86768892/aa06e986-39b2-483
 1. Introduction
 2. Tech Stack
 3. System Architecture
-4. Source Code Explanations: How to Build
+4. Source Code: How to Build
 5. Cosine Similarity Results
 6. Why We Use This Model
 7. How To Test & Install
@@ -45,7 +45,7 @@ The chatbot's system architecture involves a Firebase Functions setup, handling 
 
 ![chatbot-diagram.png](images/chatbot-diagram.png)
 
-## Source Code Explanations: How To Build
+## Source Code: How To Build
 
 The Studentia Chatbot operates through a series of steps, providing accurate and context-aware responses to user queries:
 
